@@ -8,9 +8,11 @@ intro_paragraph: >-
 
 
   My name is Dale Heinbecker and i'm a student at Conestoga for ITID and
-  aspiring level designer.
+  aspiring level designer. I have experience in C#, C++, and Java.
 
 
-  I have experience in C#, C++, and Java.
+
+
+  i"m always working on a new project on the side!
 ---
 
