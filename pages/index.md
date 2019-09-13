@@ -1,12 +1,18 @@
 ---
 layout: home
-title: Welcome
+title: 'Hello '
 permalink: /
 section: home
-intro_paragraph: >
-  [Jekyll Netlify Boilerplate](https://github.com/danurbanowicz/jekyll-netlify-boilerplate)
-  provides the basics to get a fast, static website deployed on Netlify.
-  Features [Netlify CMS](https://www.netlifycms.org), responsive
-  CSS Grid layout, sample
-  pages and posts, and a continuous deployment workflow.
+intro_paragraph: >-
+  well it seems like you've found my page
+
+
+  My name is Dale Heinbecker and i'm a student at Conestoga for ITID and
+  aspiring level designer. I have experience in C#, C++, and Java.
+
+
+
+
+  i"m always working on a new project on the side!
 ---
+
